@@ -3761,3 +3761,9 @@ Entries:
       message: Ported Allulalo from Impstation
   id: 484
   time: '2026-05-09T20:51:09.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: Betrayal knife no longer works in Zero G
+  id: 485
+  time: '2026-05-09T20:58:29.0000000+00:00'
