@@ -4002,3 +4002,9 @@ Entries:
       message: NT Cane blade now spawns with the cane
   id: 507
   time: '2026-05-14T11:04:24.0000000+00:00'
+- author: Dishwasher0
+  changes:
+    - type: Tweak
+      message: Changed felinids to be as the guide books says
+  id: 508
+  time: '2026-05-14T12:18:05.0000000+00:00'
