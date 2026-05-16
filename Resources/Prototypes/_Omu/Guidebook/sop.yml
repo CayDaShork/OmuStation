@@ -13,7 +13,10 @@
   id: SecuritySergeantSOP
   name: guide-entry-sop-security-sergeant
   text: /ServerInfo/_Omu/Guidebook/SoP/Jobs/Security/SergeantSOP.xml
-
+- type: guideEntry
+  id: WardenSOP
+  name: guide-entry-sop-warden
+  text: /ServerInfo/_Omu/Guidebook/SoP/Jobs/Security/WardenSOP.xml
 - type: guideEntry
   id: TrainingManuals
   name: guide-entry-training-manuals

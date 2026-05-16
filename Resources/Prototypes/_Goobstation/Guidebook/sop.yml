@@ -148,11 +148,11 @@
   text: "/ServerInfo/_Goobstation/Guidebook/SoP/Jobs/Security/SecuritySOP.xml"
   children:
   # - BrigmedicSOP # Omu - rename Brigmedic to Corpsman
-  - WardenSOP
   - OfficerCadetSOP
   - DetectiveSOP
-  - CorpsmanSOP # Omu - rename Brigmedic to Corpsman
   - SecuritySergeantSOP # Omu
+  - WardenSOP
+  - CorpsmanSOP
 
 - type: guideEntry
   id: ServiceSOP
@@ -346,7 +346,7 @@
 - type: guideEntry
   id: HeadOfSecuritySOP
   name: guide-entry-sop-hos
-  text: "/ServerInfo/_Goobstation/Guidebook/SoP/Jobs/Command/HeadOfSecuritySOP.xml"
+  text: "/ServerInfo/_Omu/Guidebook/SoP/Jobs/Command/HeadOfSecuritySOP.xml"
 
 - type: guideEntry
   id: ResearchDirectorSOP
@@ -422,11 +422,6 @@
   id: OfficerCadetSOP
   name: guide-entry-sop-officercadet
   text: "/ServerInfo/_Goobstation/Guidebook/SoP/Jobs/Security/OfficerCadetSOP.xml"
-
-- type: guideEntry
-  id: WardenSOP
-  name: guide-entry-sop-warden
-  text: "/ServerInfo/_Goobstation/Guidebook/SoP/Jobs/Security/WardenSOP.xml"
 
 # Service SOP Entries
 - type: guideEntry
