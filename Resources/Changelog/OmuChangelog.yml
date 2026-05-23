@@ -4188,3 +4188,9 @@ Entries:
         preventing you from raising/planting a shield.
   id: 533
   time: '2026-05-23T21:58:18.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Fix
+      message: Vaping doesnt require blocked ingestion to function
+  id: 534
+  time: '2026-05-23T22:09:28.0000000+00:00'
