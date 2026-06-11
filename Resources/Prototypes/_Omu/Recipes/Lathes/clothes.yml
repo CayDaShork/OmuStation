@@ -47,7 +47,7 @@
   
 - type: latheRecipe
   id: ClothingCyberneticBeastMantleWork
-  result: ClothingCyberneticBeastMantleWork
+  result: ClothingCyberneticBeastMantleWorkResearch
   completetime: 15
   materials:
     Steel: 2000
