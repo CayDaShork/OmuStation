@@ -55,7 +55,7 @@
   recipes:
     - ClothingEyesNightVisionGoggles
     - ClothingEyesThermalVisionGoggles
-    - ClothingCyberneticBeastMantleWork # Omu
+    - ClothingCyberneticBeastMantleWorkResearch # Omu
 
 - type: latheRecipePack
   id: Pinpointers
