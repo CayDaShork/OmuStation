@@ -8,7 +8,7 @@
   tier: 2
   cost: 25000
   recipeUnlocks:
-  - ClothingCyberneticBeastMantleWork
+  - ClothingCyberneticBeastMantleWorkResearch
   position: -5, -2
   technologyPrerequisites:
   - NightVisionTech
