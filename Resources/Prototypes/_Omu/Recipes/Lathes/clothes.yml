@@ -46,7 +46,7 @@
   result: ClothingUniformMailCarrierLong
   
 - type: latheRecipe
-  id: ClothingCyberneticBeastMantleWork
+  id: ClothingCyberneticBeastMantleWorkResearch
   result: ClothingCyberneticBeastMantleWorkResearch
   completetime: 15
   materials:
