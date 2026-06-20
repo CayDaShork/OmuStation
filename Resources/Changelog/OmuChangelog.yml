@@ -4579,3 +4579,11 @@ Entries:
       message: Added shoal infiltrator gas mask to vox raider and vox uplink
   id: 588
   time: '2026-06-20T00:41:20.0000000+00:00'
+- author: Alankao
+  changes:
+    - type: Tweak
+      message: >-
+        Various ID card sprites have been tweaked to match their job/department
+        properly.
+  id: 589
+  time: '2026-06-20T10:23:12.0000000+00:00'
