@@ -4618,3 +4618,9 @@ Entries:
       message: AI now properly has access to prison comms.
   id: 593
   time: '2026-06-20T20:58:58.0000000+00:00'
+- author: Anui-ElXx
+  changes:
+    - type: Add
+      message: Radial menu added to Janitorial Trolleys and Survival boxes
+  id: 594
+  time: '2026-06-20T21:09:44.0000000+00:00'
