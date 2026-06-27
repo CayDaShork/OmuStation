@@ -4686,3 +4686,9 @@ Entries:
       message: Fixed female Shadowkin laugh.
   id: 603
   time: '2026-06-27T11:50:48.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Fix
+      message: Fixed the rules numbers being wrong
+  id: 604
+  time: '2026-06-27T13:56:32.0000000+00:00'
