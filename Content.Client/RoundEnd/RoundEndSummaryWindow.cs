@@ -478,15 +478,16 @@ namespace Content.Client.RoundEnd
                         continue;
 
                     // Silicon Sprite
-                    hBox.AddChild(new SpriteView(borgEnt, _entityManager)
-                    {
-                        OverrideDirection = Direction.South,
-                        VerticalAlignment = VAlignment.Center,
-                        SetSize = new Vector2(64, 64),
-                        VerticalExpand = true,
-                        Stretch = SpriteView.StretchMode.Fill,
-                        Margin = new Thickness(3, 0, 3, 0)
-                    });
+                    //hBox.AddChild(new SpriteView(borgEnt, _entityManager)
+                    //{
+                    //    OverrideDirection = Direction.South,
+                    //    VerticalAlignment = VAlignment.Center,
+                    //    SetSize = new Vector2(64, 64),
+                    //    VerticalExpand = true,
+                    //    Stretch = SpriteView.StretchMode.Fill,
+                    //    Margin = new Thickness(3, 0, 3, 0)
+                    //});
+                    // Removed EOR Sprites due to lag - Omu
 
                     // Main Text Box per silicon
                     var textVBox = new BoxContainer
