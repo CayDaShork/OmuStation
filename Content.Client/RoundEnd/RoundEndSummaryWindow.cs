@@ -204,15 +204,16 @@ namespace Content.Client.RoundEnd
 
                 if (playerInfo.PlayerNetEntity != null)
                 {
-                    hBox.AddChild(new SpriteView(playerInfo.PlayerNetEntity.Value, _entityManager)
-                    {
-                        OverrideDirection = Direction.South,
-                        VerticalAlignment = VAlignment.Center,
-                        SetSize = new Vector2(64, 64),
-                        VerticalExpand = true,
-                        Stretch = SpriteView.StretchMode.Fill,
-                        Margin = new Thickness(3, 0, 3, 0)
-                    });
+                    //hBox.AddChild(new SpriteView(playerInfo.PlayerNetEntity.Value, _entityManager)
+                    //{
+                    //    OverrideDirection = Direction.South,
+                    //    VerticalAlignment = VAlignment.Center,
+                    //    SetSize = new Vector2(64, 64),
+                    //    VerticalExpand = true,
+                    //    Stretch = SpriteView.StretchMode.Fill,
+                    //    Margin = new Thickness(3, 0, 3, 0)
+                    //});
+                    // Removed EOR Sprites due to lag - Omu
                 }
 
                 var textVBox = new BoxContainer
